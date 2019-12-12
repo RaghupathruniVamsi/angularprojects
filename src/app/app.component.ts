@@ -6,11 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-    vamsi="krishna";
-    subbu=""
-  title = 'myapp1';
-  call(){
-  this.subbu="shiney"
-
-  }
+  
+  vams="Secound Commit"
 }
